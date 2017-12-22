@@ -1,0 +1,9 @@
+# Ignore metadata and recommenders folder
+/.metadata
+/.recommenders
+
+# Ignore target folder
+target/
+
+# Ignore settings folder
+.settings/
